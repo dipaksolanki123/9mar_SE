@@ -1,0 +1,125 @@
+Software Engineering:-
+
+What is computer?
+
+Computer is an electronic device which makes human life easier and
+faster
+
+Examples:- Hospitals,college,banks,Billing,malls,personal Use etc
+
+1) Hardware:- Which we can touch or see physically
+
+Examples:- Keyboard,mouse,monitor,cpu,headphone,cd driver,joystick.
+
+2) Software:- Which we cannot touch or see physically.
+
+Examples:- VLC, Chrome,Excel,Antivirus,etc.
+
+
+What is program?
+
+---> set of instructions
+
+
+What is Programming?
+
+---> To create a program we use programming
+
+
+Types of Programming languages:-
+
+C,C++,Python,Java,PHP,etc
+
+1) Frontend(Designing)-- HTML,CSS,JS,angular,react,etc.
+
+2) Backend(Database)-- Python,PHP,JAVA,Flutter,etc.
+
+
+
+Low level language-- Machine Language-- 0 and 1(Binary Language)
+
+High level language-- C,C++,python,Java
+
+
+
+SDLC:- Software Development Life Cycle
+
+There are six phases of SDLC:-
+
+1) Requirements Gathering
+
+2) Analysis
+
+3) Designing(Frontend)
+
+4) Coding(Backend)
+
+5) Testing
+
+6) Maintainence
+
+
+Dev C++, Visual Studio Code
+
+
+Compiler-- Compile time error:-
+
+It translates the high level language to low level langauage.
+It works as a translator.
+It runs whole code at once and then give result
+
+Examples:- C,C++
+
+
+Interpreter-- Run time error:-
+
+It runs code line by line
+
+Examples:- Python
+
+
+
+C Programming:-
+
+C is a high level programming language.
+
+Language:- A way to communicate
+
+C language is used to build a application
+
+C is a mother of all programming langauges
+
+Grammar
+
+
+Syntax:-
+
+#-- predefined
+
+include-- To add something
+
+stdio.h-- standard input output header file
+
+conio.h-- console input output header file (turbo c)
+
+main()
+
+{
+	coding...
+
+}
+
+
+printf();-- To print something on console screen
+
+
+Escape sequence-- 
+\n-- new line
+\t-- tab(4 spaces)
+
+C is a case sensitive language
+
+Task:- Write a program to print your name,age,address and subject.
+
+
+Dipak,Vansh,Yash,Devang,pal
